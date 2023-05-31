@@ -39,7 +39,14 @@
 </a>
 </p>
 <br>
+<h3 align="left">Leetcode Statistics:</h3>
+<hr>
 
+[![Leetcode Stats](https://leetcard.shubham.utd7/shubhamutd7)](https://leetcode.com/shubhamutd7/)
+
+
+
+<br>
 <h3 align="left"> ❤ Views and Followers</h3>
 
 <hr>
