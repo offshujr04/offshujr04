@@ -10,7 +10,7 @@
  
 - 📚 I’m doing my B.Tech from Vellore Institute of Technology, Chennai.
 
-- 🌱 I’m currently learning **Tkinter** and **C++**
+- 🌱 I’m currently learning **Pygame** and **Javascript**
 
 - 📫 How to reach me **shubhamyadav04.a@gmail.com**
 
