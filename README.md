@@ -42,7 +42,7 @@
 <h3 align="left">Leetcode Statistics:</h3>
 <hr>
 
-[![Leetcode Stats](https://leetcard.shubham.utd7/shubhamutd7)](https://leetcode.com/shubhamutd7/)
+[![Leetcode Stats]((https://leetcode.com/u/offshujr04/))]
 
 
 
