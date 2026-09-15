@@ -7,12 +7,17 @@
 <h3 align="left">🙋‍♂️ About Me:</h3>
 <hr>
 
- 
-- 📚 I’m doing my B.Tech from Vellore Institute of Technology, Chennai.
+- 🤖 AI/ML Engineer at **HBT Engineering** (via Randstad), building LLM-powered tools and agent platforms for engineering workflows.
 
-- 🌱 I’m currently learning **ML and other fields realted to data**
+- 🚀 Part-time consultant at **Yardstick**, where I joined as part of the founding team and ship AI products from prototype to production.
 
-- 📫 How to reach me **shubhamyadav04.a@gmail.com**
+- 🏆 2nd Runner-Up, **SBI Hackathon @ Global Fintech Fest 2026**, for an agentic AI banking solution.
+
+- 📄 Published IEEE researcher (agentic AI for therapy) with a patent-pending blockchain framework under review at Elsevier.
+
+- 🌱 Currently working on **multi-agent systems, MCP and LLM fine-tuning and evaluation**.
+
+- 🎓 B.Tech in CSE (AI & ML), Vellore Institute of Technology, Chennai, 2026.
 
 - ⚡ Fun fact **I like to have fun which is not a common thing for programmers ;)**
 <br>
